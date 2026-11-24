@@ -1,0 +1,10 @@
+{
+    "compilerOptions":
+    {
+    "target":"ESNext",
+    "module": "commonjs",
+    "types": ["Node", "@playwright/test"],
+    "strict": true
+
+    }
+}
